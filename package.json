@@ -1,0 +1,16 @@
+{
+  "name": "@pensionbee/tailwind",
+  "version": "1.0.0",
+  "description": "Tailwind Config for PensionBee",
+  "main": "index.js",
+  "dependencies": {
+    "@swc-node/register": "^1.6.8",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
